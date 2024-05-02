@@ -1,0 +1,18 @@
+{
+  "name": "padoma-game",
+  "version": "1.0.0",
+  "description": "Padoma Matching Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
